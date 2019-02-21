@@ -1,0 +1,23 @@
+p{ font-family: cursive;
+
+
+}
+h1{
+	color:blue;
+	font-family:courier;
+	text-shadow: 2px 3px orange;
+
+}
+div{
+	background-color:#eff3f9;
+	color:brown;
+	border-style: ridge;
+	border-collapse:collapse;
+	border-color:orange;
+	box-shadow:3px 2px 3px grey; 
+	border-radius: 4px;
+}
+
+
+
+
